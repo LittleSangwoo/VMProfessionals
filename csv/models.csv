@@ -1,29 +1,9 @@
-﻿idModel;idBrand;model;;;;;;;
-1;1;Saeco Cristallo 400;;;;;;;
-2;1;Necta Kikko Max;;;;;;;
-3;2;Unicum Food Box;;;;;;;
-4;1;Bianchi BVM 972;;;;;;;
-5;3;Rheavendors Luce E5;;;;;;;
-6;4;Jofemar Coffeemar G250;;;;;;;
-7;3;Necta Kikko ES6;;;;;;;
-8;4;Unicum Rosso;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
+﻿idModel;idBrand;model
+1;1;Saeco Cristallo 400
+2;1;Necta Kikko Max
+3;2;Unicum Food Box
+4;1;Bianchi BVM 972
+5;3;Rheavendors Luce E5
+6;4;Jofemar Coffeemar G250
+7;3;Necta Kikko ES6
+8;4;Unicum Rosso
